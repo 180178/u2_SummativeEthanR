@@ -1,0 +1,32 @@
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.csprojResolveAssemblyReference.cache
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\MainWindow.g.cs
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\App.g.cs
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR_MarkupCompile.cache
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR_MarkupCompile.lref
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\bin\Debug\u2_SummativeEthanR.exe.config
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\bin\Debug\u2_SummativeEthanR.exe
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\bin\Debug\u2_SummativeEthanR.pdb
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\MainWindow.baml
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.g.resources
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.Properties.Resources.resources
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.csproj.GenerateResource.Cache
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.csproj.CoreCompileInputs.cache
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.exe
+\\HHSDC\180178$\My Documents\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.pdb
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\bin\Debug\u2_SummativeEthanR.exe.config
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\bin\Debug\u2_SummativeEthanR.exe
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\bin\Debug\u2_SummativeEthanR.pdb
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\MainWindow.g.cs
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\App.g.cs
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR_MarkupCompile.cache
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR_MarkupCompile.lref
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\MainWindow.baml
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.g.resources
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.Properties.Resources.resources
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.csproj.GenerateResource.Cache
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.csproj.CoreCompileInputs.cache
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.exe
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.pdb
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\bin\Debug\spaceship.png
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR_Content.g.cs
+E:\ICS4U\Unit 2\u2_SummativeEthanR\u2_SummativeEthanR\obj\Debug\u2_SummativeEthanR.csprojResolveAssemblyReference.cache
